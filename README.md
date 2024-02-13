@@ -1,7 +1,7 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Developer Habibur</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<(img align="right" alt="Coding" width="400" src="https://dot.jo/uploads/2022/10/web-development.gif")>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhabiburbd&label=Profile%20views&color=0e75b6&style=flat" alt="devhabiburbd" /> </p>
 
